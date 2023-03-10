@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test"/>
+      <class name="com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test"/>
+      <class name="com.LntSuffin.testScripts.VerifyAllSealantsProductsAreOnlyVerifiedProducts_test"/>
+      <class name="com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test"/>
+      <class name="com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test"/>
+      <class name="com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test"/>
+      <class name="com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test"/>
+      <class name="com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

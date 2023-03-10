@@ -15,12 +15,22 @@ public class PLP_page
 	@FindBy(xpath="//div[@id='content-wrapper']/div/div/label") private WebElement productsInPage;
 	@FindBy(xpath = "//h3") private List<WebElement> listOfProducts;
 	@FindBy(xpath = "//label[@class='product-check mb-0 w-100']/descendant::img[@alt='verified and Trusted' and @src='assets/images/Verifiedicon_tile.svg']") private List<WebElement> verifiedProduct; 
-	
+	@FindBy(xpath = "(//label[@title='Lucknow'])[1]") private WebElement lucknowCheckbox;
+	@FindBy(xpath = "//span[@class='Prodtile-qty' and contains(.,'Lucknow')]") private List<WebElement> productCities;
 	
 	public PLP_page(WebDriver driver) {
 		PageFactory.initElements(driver, this);}
+	
+	public int getNumofProductsCities()
+	{
+		return productCities.size();
+	}
 
 	
+	public void clickLucknowCheckbox()
+	{
+		lucknowCheckbox.click();
+	}
 	
 	public void clickverifiedAndTrustedCheckbox()
 	{

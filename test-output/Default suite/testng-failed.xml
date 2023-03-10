@@ -3,13 +3,13 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.LntSuffin.testScripts.VerifyAllProductsAreOnlyVerifiedProducts_test">
+      <class name="com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test">
         <methods>
           <include name="closeApplication"/>
           <include name="launchApplication"/>
-          <include name="VerifyAllProductsAreOnlyVerifiedProducts"/>
+          <include name="VerifyAllSealantsProductsFromLucknow"/>
         </methods>
-      </class> <!-- com.LntSuffin.testScripts.VerifyAllProductsAreOnlyVerifiedProducts_test -->
+      </class> <!-- com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

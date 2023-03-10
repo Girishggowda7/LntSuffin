@@ -7,7 +7,7 @@ import com.LntSuffin.genericUtility.TestNgCommonClass;
 import com.LntSuffin.objectRepository.PLP_page;
 import com.LntSuffin.objectRepository.buyerHome_page;
 
-public class VerifyAllProductsAreVerifiedAndTrustedProducts_test extends TestNgCommonClass
+public class VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test extends TestNgCommonClass
 {
 
 	@Test

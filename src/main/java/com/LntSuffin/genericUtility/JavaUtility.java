@@ -1,17 +1,11 @@
 package com.LntSuffin.genericUtility;
 
-import java.io.File;
-import java.io.IOException;
 import java.time.format.DateTimeFormatter;
 import java.time.temporal.ChronoField;
 import java.util.Date;
 import java.util.Locale;
 import java.util.Random;
 
-import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.OutputType;
-import org.openqa.selenium.TakesScreenshot;
-import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 
 public class JavaUtility 
@@ -108,27 +102,7 @@ public class JavaUtility
 		}
 	}
 	
-	/**
-	 * This method is used to get the Screenshot
-	 */
-	public void getPhoto()
-	{
-		WebDriver driver = new WebDriverUtility().getdriverAddress();
-		String photo = "./src/main/resources/ScreenShot/";
-		Date d = new Date();
-		String d1 = d.toString();
-		String d2 = d1.replaceAll(";", "_");
-		TakesScreenshot ts=(TakesScreenshot)driver;
-		File src = ts.getScreenshotAs(OutputType.FILE);
-		File dst = new File(photo+d2+".jpeg");
-		try 
-		{
-			FileUtils.copyFile(src, dst);
-		} 
-		catch (IOException e)
-		{	
-		}
-	}
+	
 
 }
 

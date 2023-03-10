@@ -34,11 +34,11 @@ public class TestNgCommonClass
 	public void closeApplication()
 	{
 		try {
-			//webDrive.closeApplication();
+			webDrive.closeApplication();
 		}
 		finally
 		{
-			//webDrive.closeApplication();
+			webDrive.closeApplication();
 		}
 	}
 

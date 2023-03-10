@@ -1,7 +1,5 @@
 package com.LntSuffin.objectRepository;
 
-import java.util.List;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -11,6 +9,7 @@ public class buyerHome_page
 {
 	@FindBy(xpath = "//span[contains(.,'Building & Construction')]") private WebElement buildingAndConstructionCategory;
 	@FindBy(xpath = "//ul/li/a[.='Adhesives']") private WebElement adhesivesSubCategory;
+	@FindBy(xpath = "//ul/li/a[.='Sealants']") private WebElement sealantsSubCategory;
 
 	
 	
@@ -28,6 +27,11 @@ public class buyerHome_page
 	public void clickAdhesivesSubCategory()
 	{
 		adhesivesSubCategory.click();
+	}
+	
+	public void clickSealantsSubCategory()
+	{
+		sealantsSubCategory.click();
 	}
 
 	
