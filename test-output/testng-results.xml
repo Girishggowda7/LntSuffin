@@ -2,118 +2,118 @@
 <testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-10T23:15:07 IST" name="Suite" finished-at="2023-03-10T23:16:37 IST" duration-ms="90046">
+  <suite started-at="2023-03-10T23:25:33 IST" name="Suite" finished-at="2023-03-10T23:27:06 IST" duration-ms="92519">
     <groups>
     </groups>
-    <test started-at="2023-03-10T23:15:07 IST" name="Test" finished-at="2023-03-10T23:16:37 IST" duration-ms="90046">
+    <test started-at="2023-03-10T23:25:33 IST" name="Test" finished-at="2023-03-10T23:27:06 IST" duration-ms="92519">
       <class name="com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test@20ccf40b]" started-at="2023-03-10T23:16:15 IST" name="launchApplication" finished-at="2023-03-10T23:16:20 IST" duration-ms="5103" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test@2fb3536e]" started-at="2023-03-10T23:26:42 IST" name="launchApplication" finished-at="2023-03-10T23:26:47 IST" duration-ms="4561" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="VerifyNumberOfSealantsProductsInaPage()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test@20ccf40b]" started-at="2023-03-10T23:16:20 IST" name="VerifyNumberOfSealantsProductsInaPage" finished-at="2023-03-10T23:16:28 IST" duration-ms="7557" status="PASS">
+        <test-method signature="VerifyNumberOfSealantsProductsInaPage()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test@2fb3536e]" started-at="2023-03-10T23:26:47 IST" name="VerifyNumberOfSealantsProductsInaPage" finished-at="2023-03-10T23:26:53 IST" duration-ms="6190" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyNumberOfSealantsProductsInaPage -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test@20ccf40b]" started-at="2023-03-10T23:16:28 IST" name="closeApplication" finished-at="2023-03-10T23:16:28 IST" duration-ms="216" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test@2fb3536e]" started-at="2023-03-10T23:26:53 IST" name="closeApplication" finished-at="2023-03-10T23:26:53 IST" duration-ms="232" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
       </class> <!-- com.LntSuffin.testScripts.VerifyNumberOfSealantsProductsInaPage_test -->
       <class name="com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test@5562c41e]" started-at="2023-03-10T23:15:07 IST" name="launchApplication" finished-at="2023-03-10T23:15:14 IST" duration-ms="6490" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test@32ee6fee]" started-at="2023-03-10T23:25:34 IST" name="launchApplication" finished-at="2023-03-10T23:25:39 IST" duration-ms="5716" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="VerifyAllSealantsProductsFromLucknow()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test@5562c41e]" started-at="2023-03-10T23:15:14 IST" name="VerifyAllSealantsProductsFromLucknow" finished-at="2023-03-10T23:15:19 IST" duration-ms="5279" status="PASS">
+        <test-method signature="VerifyAllSealantsProductsFromLucknow()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test@32ee6fee]" started-at="2023-03-10T23:25:39 IST" name="VerifyAllSealantsProductsFromLucknow" finished-at="2023-03-10T23:25:44 IST" duration-ms="4349" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAllSealantsProductsFromLucknow -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test@5562c41e]" started-at="2023-03-10T23:15:19 IST" name="closeApplication" finished-at="2023-03-10T23:15:19 IST" duration-ms="209" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test@32ee6fee]" started-at="2023-03-10T23:25:44 IST" name="closeApplication" finished-at="2023-03-10T23:25:44 IST" duration-ms="296" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
       </class> <!-- com.LntSuffin.testScripts.VerifyAllSealantsProductsFromLucknow_test -->
       <class name="com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test@6da21078]" started-at="2023-03-10T23:15:19 IST" name="launchApplication" finished-at="2023-03-10T23:15:24 IST" duration-ms="4937" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test@7fee8714]" started-at="2023-03-10T23:25:44 IST" name="launchApplication" finished-at="2023-03-10T23:25:48 IST" duration-ms="4202" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="VerifyAllSealantsProductsAreVerifiedAndTrustedProducts()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test@6da21078]" started-at="2023-03-10T23:15:24 IST" name="VerifyAllSealantsProductsAreVerifiedAndTrustedProducts" finished-at="2023-03-10T23:15:29 IST" duration-ms="4919" status="PASS">
+        <test-method signature="VerifyAllSealantsProductsAreVerifiedAndTrustedProducts()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test@7fee8714]" started-at="2023-03-10T23:25:48 IST" name="VerifyAllSealantsProductsAreVerifiedAndTrustedProducts" finished-at="2023-03-10T23:25:53 IST" duration-ms="5210" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAllSealantsProductsAreVerifiedAndTrustedProducts -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test@6da21078]" started-at="2023-03-10T23:15:29 IST" name="closeApplication" finished-at="2023-03-10T23:15:29 IST" duration-ms="109" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test@7fee8714]" started-at="2023-03-10T23:25:53 IST" name="closeApplication" finished-at="2023-03-10T23:25:54 IST" duration-ms="158" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
       </class> <!-- com.LntSuffin.testScripts.VerifyAllSealantsProductsAreVerifiedAndTrustedProducts_test -->
       <class name="com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test@2b91004a]" started-at="2023-03-10T23:16:06 IST" name="launchApplication" finished-at="2023-03-10T23:16:09 IST" duration-ms="3705" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test@20ccf40b]" started-at="2023-03-10T23:26:28 IST" name="launchApplication" finished-at="2023-03-10T23:26:33 IST" duration-ms="4221" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="VerifyAllProductsAreVerifiedAndTrustedProducts()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test@2b91004a]" started-at="2023-03-10T23:16:09 IST" name="VerifyAllProductsAreVerifiedAndTrustedProducts" finished-at="2023-03-10T23:16:15 IST" duration-ms="5311" status="PASS">
+        <test-method signature="VerifyAllProductsAreVerifiedAndTrustedProducts()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test@20ccf40b]" started-at="2023-03-10T23:26:33 IST" name="VerifyAllProductsAreVerifiedAndTrustedProducts" finished-at="2023-03-10T23:26:42 IST" duration-ms="9224" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAllProductsAreVerifiedAndTrustedProducts -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test@2b91004a]" started-at="2023-03-10T23:16:15 IST" name="closeApplication" finished-at="2023-03-10T23:16:15 IST" duration-ms="151" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test@20ccf40b]" started-at="2023-03-10T23:26:42 IST" name="closeApplication" finished-at="2023-03-10T23:26:42 IST" duration-ms="240" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
       </class> <!-- com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreVerifiedAndTrustedProducts_test -->
       <class name="com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test@4229bb3f]" started-at="2023-03-10T23:15:38 IST" name="launchApplication" finished-at="2023-03-10T23:15:44 IST" duration-ms="5260" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test@56cdfb3b]" started-at="2023-03-10T23:26:03 IST" name="launchApplication" finished-at="2023-03-10T23:26:12 IST" duration-ms="9054" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="VerifyAllProductsAreOnlyVerifiedProducts()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test@4229bb3f]" started-at="2023-03-10T23:15:44 IST" name="VerifyAllProductsAreOnlyVerifiedProducts" finished-at="2023-03-10T23:15:49 IST" duration-ms="5233" status="PASS">
+        <test-method signature="VerifyAllProductsAreOnlyVerifiedProducts()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test@56cdfb3b]" started-at="2023-03-10T23:26:12 IST" name="VerifyAllProductsAreOnlyVerifiedProducts" finished-at="2023-03-10T23:26:17 IST" duration-ms="5427" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAllProductsAreOnlyVerifiedProducts -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test@4229bb3f]" started-at="2023-03-10T23:15:49 IST" name="closeApplication" finished-at="2023-03-10T23:15:49 IST" duration-ms="245" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test@56cdfb3b]" started-at="2023-03-10T23:26:17 IST" name="closeApplication" finished-at="2023-03-10T23:26:18 IST" duration-ms="231" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
       </class> <!-- com.LntSuffin.testScripts.VerifyAllAdhesivesProductsAreOnlyVerifiedProducts_test -->
       <class name="com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test@56cdfb3b]" started-at="2023-03-10T23:15:49 IST" name="launchApplication" finished-at="2023-03-10T23:15:59 IST" duration-ms="10242" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test@2b91004a]" started-at="2023-03-10T23:26:18 IST" name="launchApplication" finished-at="2023-03-10T23:26:22 IST" duration-ms="4354" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="VerifyNumberOfProductsInaPage()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test@56cdfb3b]" started-at="2023-03-10T23:15:59 IST" name="VerifyNumberOfProductsInaPage" finished-at="2023-03-10T23:16:05 IST" duration-ms="6227" status="PASS">
+        <test-method signature="VerifyNumberOfProductsInaPage()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test@2b91004a]" started-at="2023-03-10T23:26:22 IST" name="VerifyNumberOfProductsInaPage" finished-at="2023-03-10T23:26:28 IST" duration-ms="6234" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyNumberOfProductsInaPage -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test@56cdfb3b]" started-at="2023-03-10T23:16:05 IST" name="closeApplication" finished-at="2023-03-10T23:16:06 IST" duration-ms="204" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test@2b91004a]" started-at="2023-03-10T23:26:28 IST" name="closeApplication" finished-at="2023-03-10T23:26:28 IST" duration-ms="216" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
       </class> <!-- com.LntSuffin.testScripts.VerifyNumberOfAdhesivesProductsInaPage_test -->
       <class name="com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test@35aea049]" started-at="2023-03-10T23:16:28 IST" name="launchApplication" finished-at="2023-03-10T23:16:33 IST" duration-ms="5147" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test@7205765b]" started-at="2023-03-10T23:26:53 IST" name="launchApplication" finished-at="2023-03-10T23:27:00 IST" duration-ms="6622" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="VerifyAllProductsFromDelhi()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test@35aea049]" started-at="2023-03-10T23:16:33 IST" name="VerifyAllProductsFromDelhi" finished-at="2023-03-10T23:16:37 IST" duration-ms="4434" status="PASS">
+        <test-method signature="VerifyAllProductsFromDelhi()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test@7205765b]" started-at="2023-03-10T23:27:00 IST" name="VerifyAllProductsFromDelhi" finished-at="2023-03-10T23:27:06 IST" duration-ms="5967" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAllProductsFromDelhi -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test@35aea049]" started-at="2023-03-10T23:16:37 IST" name="closeApplication" finished-at="2023-03-10T23:16:37 IST" duration-ms="133" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test@7205765b]" started-at="2023-03-10T23:27:06 IST" name="closeApplication" finished-at="2023-03-10T23:27:06 IST" duration-ms="128" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->
       </class> <!-- com.LntSuffin.testScripts.VerifyAllAdhesivesProductsFromLucknow_test -->
       <class name="com.LntSuffin.testScripts.VerifyAllSealantsProductsAreOnlyVerifiedProducts_test">
-        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreOnlyVerifiedProducts_test@7fee8714]" started-at="2023-03-10T23:15:29 IST" name="launchApplication" finished-at="2023-03-10T23:15:33 IST" duration-ms="3998" status="PASS">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreOnlyVerifiedProducts_test@4229bb3f]" started-at="2023-03-10T23:25:54 IST" name="launchApplication" finished-at="2023-03-10T23:25:58 IST" duration-ms="4221" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchApplication -->
-        <test-method signature="VerifyAllSealantsProductsAreOnlyVerifiedProducts()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreOnlyVerifiedProducts_test@7fee8714]" started-at="2023-03-10T23:15:33 IST" name="VerifyAllSealantsProductsAreOnlyVerifiedProducts" finished-at="2023-03-10T23:15:38 IST" duration-ms="4772" status="PASS">
+        <test-method signature="VerifyAllSealantsProductsAreOnlyVerifiedProducts()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreOnlyVerifiedProducts_test@4229bb3f]" started-at="2023-03-10T23:25:58 IST" name="VerifyAllSealantsProductsAreOnlyVerifiedProducts" finished-at="2023-03-10T23:26:03 IST" duration-ms="4925" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- VerifyAllSealantsProductsAreOnlyVerifiedProducts -->
-        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreOnlyVerifiedProducts_test@7fee8714]" started-at="2023-03-10T23:15:38 IST" name="closeApplication" finished-at="2023-03-10T23:15:38 IST" duration-ms="124" status="PASS">
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:com.LntSuffin.testScripts.VerifyAllSealantsProductsAreOnlyVerifiedProducts_test@4229bb3f]" started-at="2023-03-10T23:26:03 IST" name="closeApplication" finished-at="2023-03-10T23:26:03 IST" duration-ms="155" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeApplication -->

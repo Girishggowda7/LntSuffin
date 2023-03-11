@@ -8,7 +8,7 @@ import com.LntSuffin.objectRepository.PLP_page;
 import com.LntSuffin.objectRepository.buyerHome_page;
 
 public class VerifyAllSealantsProductsFromLucknow_test extends TestNgCommonClass
-{
+{ 
 	@Test
 	public void	VerifyAllSealantsProductsFromLucknow()
 	{
